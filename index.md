@@ -14,3 +14,9 @@ And here's some javascript
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+I can make task lists too...
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
