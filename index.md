@@ -2,4 +2,7 @@
 
 #### This is a smaller header
 
-Easy enough - have seen this before!
+In 2023-24, I'm the president of BandSoc at Warwick Univeristy
+
+![University of Warwick BandSoc Logo](https://www.warwickbandsoc.co.uk/images/logo.png)
+
